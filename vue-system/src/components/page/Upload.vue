@@ -60,6 +60,9 @@
         </div>
       </div>
 
+
+      ddddddddddddddddd
+
       <el-dialog title="裁剪图片" :visible.sync="dialogVisible" width="30%">
         <vue-cropper
           ref="cropper"

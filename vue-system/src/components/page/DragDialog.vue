@@ -1,5 +1,7 @@
 <template>
     <section class="main">
+
+        <video width="500px" height="500px" controls="true" src="http://192.168.3.20/group1/M00/00/06/wKgDFFylsxuALlPAAO4qwMnVkSs062.mp4"></video>
         <div class="crumbs">
             <el-breadcrumb separator="/">
                 <el-breadcrumb-item><i class="el-icon-rank"></i> 拖拽组件</el-breadcrumb-item>
